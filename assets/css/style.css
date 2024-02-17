@@ -28,12 +28,11 @@ footer,
 .footer {
     background: linear-gradient(to top, aqua, black);
     color: white;
-}
+}   
 
 .flashy-text {
-    color: aqua;
-    animation: blink-animation 0.2s steps(5, start) infinite;
-    -webkit-animation: blink-animation 0.2s steps(5, start) infinite;
+    color:white;
+    
 }
 
 @keyframes blink-animation {
